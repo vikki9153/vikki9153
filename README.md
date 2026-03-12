@@ -1,4 +1,4 @@
- # Hi 👋, I'm Vicky
+ # Hi 👋, I'm Vikki
 
 🎓 BTech Computer Science Student
 💻 Currently learning **Java, Data Structures & Algorithms**
