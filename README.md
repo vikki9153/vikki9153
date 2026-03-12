@@ -1,16 +1,28 @@
-## Hi there 👋
+ # Hi 👋, I'm Vicky
 
-<!--
-**vikki9153/vikki9153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student
+💻 Currently learning **Java, Data Structures & Algorithms**
+🚀 Interested in **Software Development and AI**
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* Data Structures & Algorithms
+* HTML, CSS, JavaScript
+* Basic React
+
+## 📚 Currently Learning
+
+* Advanced DSA
+* Web Development
+* Problem Solving on LeetCode
+
+## 📂 Projects
+
+* Library Management System (Java)
+* Student Management System
+* DSA Practice Problems
+
+## 📫 Connect With Me
+
+https://www.linkedin.com/in/vikki-kumar-208591346
